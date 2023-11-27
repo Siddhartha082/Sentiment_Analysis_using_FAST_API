@@ -28,7 +28,7 @@
 
 ![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/f41351ed-b133-41c7-9747-3fc7f1949187)
 
-# Domain  https://web-production-e58d.up.railway.app/docs
+#Domain  https://web-production-e58d.up.railway.app/docs
 
 ![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/3675e9d8-6e1c-4e14-a7ef-d98324eb39f8)
 
@@ -38,7 +38,7 @@
 
 ![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/29b77512-2342-4979-a09d-59887c4c7420)
 
-# Exploring other enttites inside the APP
+# Exploring other entites inside the APP
 
 ![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/4f9ce035-7918-4972-acdb-882f939b18ad)
 
@@ -50,7 +50,8 @@
 
 # # APP.PY – File  Code Reference 
 
-![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/9379ed3b-6fb1-47bb-ba2a-c564f6283e5e)
+![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/5a6a3c5f-c420-44d3-9d84-3f4064af6761)
+
 
 # INPUT 1
 
