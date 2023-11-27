@@ -78,6 +78,15 @@ Domain  https://web-production-e58d.up.railway.app/docs
 
 ![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/83df383f-e92c-4144-b05e-6b60ebee8c77)
 
+# INPUT 3
+
+![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/94033a7b-9d90-48af-bed8-2df5c7cccbad)
+
+# OUTPUT -- Neutral
+
+![image](https://github.com/Siddhartha082/Sentiment_Analysis_using_FAST_API/assets/110781138/5514d1bf-b3d7-4822-ae4c-5618bb6c4462)
+
+
 
 
 
