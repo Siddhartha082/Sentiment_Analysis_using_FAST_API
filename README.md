@@ -1,1 +1,2 @@
-# Sentiment_Analysis_using_FAST_API
+# Sentiment-Analysis-API
+A simple Sentiment Analysis API in FastAPI.
